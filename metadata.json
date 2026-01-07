@@ -1,0 +1,7 @@
+{
+  "name": "HUD Gastronomy Explorer",
+  "description": "A futuristic heads-up display interface for exploring curated restaurant menus with a 3D curved roller-deck navigation experience.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
